@@ -1,0 +1,6 @@
+---
+subtitle: "Conheça nossa Equipe"
+listing:
+  template: equipe.js
+  contents: equipe.yml
+---

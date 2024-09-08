@@ -1,0 +1,41 @@
+---
+title: "Home"
+format: html
+css: styles.css
+sidebar: false
+page-navigation: false
+#listing:
+#  template: produtos.js
+#  contents: produtos.yml
+---
+
+### Bioeconomia. Quando você escuta este termo, no que pensas?
+
+- Bioecológica. 
+
+- Novos materias, Biotecnologias?
+
+- Insumos renováveis e processos industriais de larga escala, baseados em monoculturas?
+
+- Bio aquilo, Bio ¿qué?, Bio what? 
+-   Entre diferentes atores, diferentes narrativas e agendas temos a Uiro: Engenharia de dados de ponta que te oferece dados para entender o que está acontecedendo e tomar decisões informadas.
+
+
+-   Nossa expertise é coletar e sistematizar dados para proporcionar uma visão única das bioeconomias amazônicas.
+
+- O objetivo principal da Uiro é de responder lacunas de informação que você tem com dados que podem saná-las.
+
+::: cta-button
+<a href="analises.qmd">Conheça o Portfólio </a>
+:::
+
+- name: "Radar de Empresas"
+  description: "Quais são as empresas" Quais produtos são produzidos?
+- name: "Radar da Pesquisa"
+  description: "This is a brief description of Product 2."
+- name: "Acompanhamento em tempo Real"
+  description: "Imagine se você pudesse saber em tempo real quais empresas estão surgindo? Quais produtos estão sendo feitos? A Uiro acompanha tudo isto de forma automatizada para te dar os melhroes insights"
+- name: "Radar do território"
+  description: "This is a brief description of Product 4."
+
+

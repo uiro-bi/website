@@ -1,0 +1,11 @@
+- name: "Gabriel P. Folhes"
+  role: "Founder, CTO"
+  bio: "Alice has over 10 years of experience in data science and analytics."
+  image: "https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/eourInstructors1.svg"
+  linkedin: "https://www.linkedin.com/in/gabriel-pisa/"
+
+- name: "Sandro Ribeiro"
+  role: "Founder, CEO"
+  bio: "Bob specializes in bioeconomy and sustainability research."
+  image: "https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/eourInstructors1.svg"
+  linkedin: "https://www.linkedin.com/in/sandroribeiro49/"

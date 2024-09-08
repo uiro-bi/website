@@ -1,0 +1,8 @@
+- name: "Radar de Empresas"
+  description: "Quais são as empresas"
+- name: "Radar da Pesquisa"
+  description: "This is a brief description of Product 2."
+- name: "Acompanhamento em tempo Real"
+  description: "Imagine se você pudesse saber em tempo real quais empresas estão surgindo? Quais produtos estão sendo feitos? A Uiro acompanha tudo isto de forma automatizada para te dar os melhroes insights em tempo real."
+- name: "Radar do território"
+  description: "This is a brief description of Product 4."

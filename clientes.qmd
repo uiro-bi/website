@@ -1,0 +1,14 @@
+---
+subtitle: "Quem a Uiro já empoderou com dados"
+listing:
+  template: testimonial.ejs.js
+  contents: clientes.yml
+---
+
+```{=html}
+<style>
+h2.subtitle {
+  text-align: center;
+}
+</style>
+```

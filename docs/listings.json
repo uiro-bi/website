@@ -1,0 +1,30 @@
+[
+  {
+    "listing": "/equipe.html",
+    "items": []
+  },
+  {
+    "listing": "/clientes.html",
+    "items": []
+  },
+  {
+    "listing": "/analises.html",
+    "items": [
+      "/relatorios/06-09-2024-teste/index.html"
+    ]
+  },
+  {
+    "listing": "/contato.html",
+    "items": [
+      "/about.html",
+      "/index.html",
+      "/manifesto.html",
+      "/analises.html",
+      "/produtos.html",
+      "/404.html",
+      "/relatorios/06-09-2024-teste/index.html",
+      "/clientes.html",
+      "/equipe.html"
+    ]
+  }
+]

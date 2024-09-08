@@ -1,0 +1,47 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  open-graph: true
+  search: false
+  title: "Uiro"
+  #cookie-consent: true
+
+  page-navigation: true
+  
+  page-footer: 
+    left: "Website build with Quarto, by &copy; 2024 Uiro.io" 
+    right: 
+      - icon: instagram
+        href: https://www.instagram.com/uiro.io/?igsh=NjhvbWo4Z2c0NDF5
+
+  navbar:
+    right:
+      - text: "O que fazemos"
+        menu: 
+          - text: "Portfolio"
+            href: analises.qmd
+          - text: "Produtos"
+            href: produtos.qmd
+      - text: 'Sobre'
+        menu:
+          - text: 'Equipe'
+            href: equipe.qmd
+          - text: 'Manifesto'
+            href: manifesto.qmd
+      - text: "Feedbacks"
+        href: clientes.qmd
+      - text: 'Contato'
+        href: contato.qmd
+
+format:
+  html:
+    theme:
+      #light: flatly
+      dark: lux
+    css: styles.css
+    toc: true
+
+editor: visual
+

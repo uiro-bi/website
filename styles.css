@@ -1,0 +1,77 @@
+/* css styles */
+
+/* Estilo para centralizar subtitle tags nos yaml .qmd */
+h2.subtitle {
+  text-align: center;
+}
+
+/* Estilo quando o usuário passar o mouse sobre os links */
+.navbar a:hover {
+    background-color: red;
+    color: white;
+}
+
+.cta-button {
+    text-align: center; /* Center contents inside the container */
+    margin: 20px 0; /* Optional margin for spacing */
+}
+
+.cta-button a {
+    display: inline-block;
+    background-color: black; /* Cor de fundo do botão */
+    color: white;
+    padding: 12px 24px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+
+.cta-button a:hover {
+    background-color: gray; /* Cor ao passar o mouse */
+}
+
+/* CSS for index.qmd */
+
+/* General grid layout */
+.product-grid-container {
+    display: flex;
+    justify-content: center;
+    margin: 50px 0;
+}
+
+.product-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Creates 2 columns */
+    grid-gap: 20px;
+    max-width: 1000px;
+    width: 100%;
+}
+
+.product-item {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.icon-container {
+    margin-bottom: 15px;
+}
+
+.product-icon {
+    width: 80px; /* Adjust icon size */
+    height: 80px;
+}
+
+.text-container h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.text-container p {
+    font-size: 14px;
+    color: #666;
+}
