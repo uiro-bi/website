@@ -11,6 +11,11 @@ page-navigation: false
 
 ### Bioeconomia. Quando você escuta este termo, no que pensas?
 
+-   Bioeconomia bioecológica?
+
+```{=html}
+<!-- -->
+```
 -   Novos materias, Biotecnologias?
 
 -   Insumos renováveis e processos industriais de larga escala, baseados em monoculturas?
