@@ -1,6 +1,6 @@
 ---
-title: "Portfolio"
-subtitle: O porfolio da Uiro se fundamenta em engenharia de dados ponta. Veja nossos relatórios, dashboards e visualizações de dados.
+title: "Portfólio"
+subtitle: Veja nossos relatórios, dashboards e visualizações de dados.
 listing:
   type: grid
   contents: relatorios 

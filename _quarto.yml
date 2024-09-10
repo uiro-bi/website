@@ -11,7 +11,7 @@ website:
   page-navigation: true
   
   page-footer: 
-    left: "Website build with Quarto, by &copy; 2024 Uiro.io" 
+    left: "&copy; 2024 Uiro.io" 
     right: 
       - icon: instagram
         href: https://www.instagram.com/uiro.io/?igsh=NjhvbWo4Z2c0NDF5
@@ -20,16 +20,16 @@ website:
     right:
       - text: "O que fazemos"
         menu: 
-          - text: "Portfolio"
-            href: analises.qmd
-          - text: "Produtos"
+          - text: "Nossas Soluções"
             href: produtos.qmd
+          - text: "Porfólio"
+            href: analises.qmd
       - text: 'Sobre'
         menu:
           - text: 'Equipe'
             href: equipe.qmd
-          - text: 'Manifesto'
-            href: manifesto.qmd
+          #- text: 'Manifesto'
+          #  href: manifesto.qmd
       - text: "Feedbacks"
         href: clientes.qmd
       - text: 'Contato'
@@ -38,7 +38,6 @@ website:
 format:
   html:
     theme:
-      #light: flatly
       dark: lux
     css: styles.css
     toc: true

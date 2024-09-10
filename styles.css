@@ -75,3 +75,102 @@ h2.subtitle {
     font-size: 14px;
     color: #666;
 }
+
+/*-- footer style --*/
+
+.footer-container {
+  background-color: black; /* Ensure the background is black */
+  color: white; /* Ensure text is visible on black background */
+  padding-left: 1.5em;
+  padding-right: 1.5em;
+  padding-top: 1em;
+  margin-top: 2.5em;
+}
+
+.footer-text h3, .h3 {
+  font-family: 'Oswald', sans-serif;
+  color: white;
+  font-size: .875rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  margin-bottom: 0.5rem;
+  margin-top: 0.3rem;
+}
+
+.footer-text p, .p {
+  color: white;
+  font-size: .875rem;
+  font-weight: 400;
+}
+
+.footer-text p > a {
+  color: white;
+  font-size: .875rem;
+  font-weight: 400;
+}
+
+.footer-text p > a:hover {
+  color: #939bc9;
+}
+
+.footer-block {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding-top: 1em;
+  padding-bottom: 1em; 
+  box-sizing: border-box;
+  background-color: black; /* Background for the block */
+}
+
+
+/*-- nav footer styles --*/
+
+.nav-footer {
+  background-color: black; /* Add background color for nav-footer */
+  color: white;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 400;
+  padding-left: 1.5em !important;
+  padding-right: 1.5em !important;
+  padding-top: 1em;
+}
+
+.nav-footer a {
+  color: white;
+  font-weight: 400;
+}
+
+.nav-footer a:hover {
+  color: #939bc9;
+}
+
+.nav-footer-left .footer-items .nav-link,
+.nav-footer-center .footer-items .nav-link,
+.nav-footer-right .footer-items .nav-link {
+  font-weight: 400;
+  text-transform: uppercase;
+}
+
+.nav-footer-left .footer-items .nav-item,
+.nav-footer-center .footer-items .nav-item,
+.nav-footer-right .footer-items .nav-item {
+  margin-top: 0;
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+}
+
+.nav-footer-left, .nav-footer-right {
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+/* Change standard background color */
+body {
+  background-color: #f0f0f0; /* Change this to your desired color */
+  color: #333; /* Adjust text color for contrast */
+}
+
+/* Optional: You can also target specific sections if you want */
+.main-container {
+  background-color: #f0f0f0; /* Apply the background color to the main content */
+}

@@ -1,5 +1,6 @@
 ---
 subtitle: "Conheça nossa Equipe"
+sidebar: false
 listing:
   template: equipe.js
   contents: equipe.yml
