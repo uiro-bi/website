@@ -7,7 +7,6 @@ h2.subtitle {
 
 /* Estilo quando o usuário passar o mouse sobre os links */
 .navbar a:hover {
-    background-color: red;
     color: white;
 }
 
@@ -174,3 +173,5 @@ body {
 .main-container {
   background-color: #f0f0f0; /* Apply the background color to the main content */
 }
+
+
