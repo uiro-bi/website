@@ -25,8 +25,6 @@ ul.task-list li input[type="checkbox"] {
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
 <script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/clipboard/clipboard.min.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -54,65 +52,7 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-project','listing-website','listing-format','listing-editor','listing-language','listing-title','listing-path','listing-outputHref','listing-author','listing-description','listing-filename','listing-file-modified','listing-reading-time','listing-word-count','listing-css','listing-subtitle','listing-listing','listing-page-layout','listing-sidebar','listing-Subtitle','listing-date','listing-categories','listing-date-modified',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] },{ data: ['listing-date-sort'] },{ data: ['listing-date-modified-sort'] }],
-      
-      searchColumns: ["listing-project","listing-website","listing-format","listing-editor","listing-language","listing-title","listing-path","listing-outputHref","listing-author","listing-description","listing-filename","listing-file-modified","listing-reading-time","listing-word-count","listing-css","listing-subtitle","listing-listing","listing-page-layout","listing-sidebar","listing-Subtitle","listing-date","listing-categories","listing-date-modified"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="styles.css">
 <meta property="og:title" content="Uiro">
@@ -201,16 +141,10 @@ window.Quarto = {
 <section id="entre-em-contato" class="level4">
 <h4 class="anchored" data-anchor-id="entre-em-contato">Entre em contato</h4>
 <ul>
-<li>Conheça de perto nossas <span style="color: red;">soluções:</span> seja para contratar nossos <span style="color: red;">serviços e produtos de dados</span> ou propor <span style="color: red;">parcerias</span>.</li>
+<li>Conheça de perto nossas <span style="color: red;">soluções:</span> seja para contratar nossos <span style="color: red;">serviços e produtos de dados</span> ou propor <span style="color: red;">parcerias</span>. Adorariamos conhecer suas demandas e propor soluções de dados para resolvê-las.</li>
 </ul>
-<section id="elaboramos-um-formulário-para-entender-melhor-seu-problemaproposta" class="level5">
-<h5 class="anchored" data-anchor-id="elaboramos-um-formulário-para-entender-melhor-seu-problemaproposta">Elaboramos um formulário para entender melhor seu problema/proposta</h5>
-<ul>
-<li>Basta prenché-lo que entraremos em contato em até 1 dia útil.</li>
-</ul>
-</section>
-<section id="se-preferir-entre-em-contato-diretamente" class="level5">
-<h5 class="anchored" data-anchor-id="se-preferir-entre-em-contato-diretamente">Se preferir, entre em contato diretamente:</h5>
+<section id="nossos-canais-são" class="level5">
+<h5 class="anchored" data-anchor-id="nossos-canais-são">Nossos canais são:</h5>
 <ul>
 <li>Por <strong>email:</strong>
 <ul>
@@ -220,49 +154,13 @@ window.Quarto = {
 <li>Pelo instagram:<br>
 <a href="https://www.instagram.com/uiro.io" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" alt="Instagram" width="20" height="20"> </a> <span class="citation" data-cites="uiro.io">@uiro.io</span></li>
 </ul>
-</section>
-</section>
-<section id="formulário" class="level4">
-<h4 class="anchored" data-anchor-id="formulário">Formulário</h4>
-
 
 
 </section>
 </section>
-
-<div class="quarto-listing quarto-listing-container-custom" id="listing-listing">
-<section id="contato">
-  <div class="container">
-    <div class="form-container">
-      <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfpFyZA2MvRWtwT_eodEY0jk9u9sRE2HcO2hlQBe7peG5CsQg/viewform?embedded=true" width="640" height="492" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
-    </div>
-  </div>
 </section>
 
-<style>
-  #contato {
-    background-color: #fff;
-    padding: 40px 0;
-    text-align: center;
-  }
-
-  .form-container {
-    max-width: 100%;
-    margin: 0 auto;
-    padding: 0 20px;
-  }
-
-  iframe {
-    width: 100%;
-    height: 780px; /* Adjust height as needed */
-    border: none;
-  }
-</style>
-
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

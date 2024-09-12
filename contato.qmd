@@ -1,19 +1,16 @@
 ---
-listing:
-  template: contato.js 
+#listing:
+#  template: contato.js 
 ---
 
 ## Olá!
 
 #### Entre em contato
 
--   Conheça de perto nossas [soluções:]{style="color: red;"} seja para contratar nossos [serviços e produtos de dados]{style="color: red;"} ou propor [parcerias]{style="color: red;"}.
+-   Conheça de perto nossas [soluções:]{style="color: red;"} seja para contratar nossos [serviços e produtos de dados]{style="color: red;"} ou propor [parcerias]{style="color: red;"}. Adorariamos conhecer suas demandas e propor soluções de dados para resolvê-las. 
 
-##### Elaboramos um formulário para entender melhor seu problema/proposta
 
--   Basta prenché-lo que entraremos em contato em até 1 dia útil.
-
-##### Se preferir, entre em contato diretamente:
+##### Nossos canais são:
 
 -   Por <strong>email:</strong>
     -   gabriel.pisa\@uiro.io
@@ -21,4 +18,4 @@ listing:
 -   Pelo instagram:\
     <a href="https://www.instagram.com/uiro.io" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" alt="Instagram" width="20" height="20"/> </a> @uiro.io
 
-#### Formulário
+
