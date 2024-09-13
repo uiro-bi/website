@@ -1,6 +1,9 @@
 ---
-#listing:
-#  template: contato.js 
+format:
+  html:
+    css: custom.css
+    toc: false
+    sidebar: false
 ---
 
 ## Olá!

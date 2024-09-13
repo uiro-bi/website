@@ -1,9 +1,10 @@
 ---
-sidebar: false
-theme: styles.css
-#listing:
-#  template: produtos.js
-#  contents: produtos.yml
+title: "Olá"
+format:
+  html:
+    css: custom.css
+    toc: false
+    sidebar: false
 ---
 
 ### Somos a Uiro.
