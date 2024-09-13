@@ -18,12 +18,8 @@ website:
 
   navbar:
     right:
-      - text: "O que fazemos"
-        menu: 
-          - text: "Nossas Soluções"
-            href: produtos.qmd
-          - text: "Porfólio"
-            href: analises.qmd
+      - text: "Veja nossas análises"
+        href: analises.qmd
       - text: 'Sobre'
         menu:
           - text: 'Equipe'

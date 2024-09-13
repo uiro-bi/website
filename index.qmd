@@ -1,27 +1,37 @@
 ---
 sidebar: false
+theme: styles.css
 #listing:
 #  template: produtos.js
 #  contents: produtos.yml
 ---
 
-### Somos a Uiro. 
+### Somos a Uiro.
 
-#### Nosso objetivo é ser a principal fonte de Inteligência de Mercado para Bioeconomia na Amazônia.
+### Nosso objetivo é revolucionar a forma como startups e empresas do consomem inteligência de mercado sobre bieconomia na amazônia.
 
+### Nossas Soluções
 
-#### Nossas Soluções
+#### Serviços de consultoria especializados
+
+-   Você gostaria de saber quais são concorrentes? Quais produtos existem? Quais são as tendências do seu nicho de atuação? Bom, se você tem um problema e precisa de dados para a resposta conte conosco. A Uiro densenvolve soluções de dados sob medida para suas necessidades. Ficaremos felizes em entender mais sobre seu problema e propor soluções.
+
+#### Nosso Software como Serviço (SaaS) em validação
+
+-   Durante a oferta de nossos serviços de consultoria e o contato com startups do ecossistema nos deparamos com um problema: **a forma como eles consomem inteligência de mercado**. Nosso diagnóstico preliminar mostrou que as startups vasculham marketplaces (Mercado Livre; Flor de Jambú), plataformas com dados de empresas (Econodata) e sites de notícias para acompanhar o mercado. É um processo manual, lento e sem o poder da informação sistematizada e pensada na comunicação com um público específico.
+
+-   E se informações sobre produtos e empresas altamente fragmentadas fossem estruturadas e disponibilizadas num SaaS, permitindo uma rápida e proveitosa leitura do mercado para a tomada de decisão do dia a dia? Bom, esta é a aposta atual da Uiro. Um SaaS idealizado para startups de bioeconomia terem acesso a produtos de dados de ponta.
+
+-   Adorariamos compartilhar um acesso exclusivo ao produto para entender se atende as expectativas, fazer melhoras contínuas e quem sabe pensar em outros formatos de comunicação de insights.
 
 ::: cta-button
-<a href="produtos.qmd">Veja nossas soluções </a>
+<a href="contato.qmd">Entre em contato </a>
 :::
 
+#### A Uiro produz conteúdo de dados sobre bioeconomia gratuito
 
-#### Nossas Análises
+Não deixe de conferir nossas análises :)
 
 ::: cta-button
 <a href="analises.qmd">Veja nossas análises </a>
 :::
-
-
-

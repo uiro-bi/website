@@ -15,6 +15,10 @@ h2.subtitle {
     margin: 20px 0; /* Optional margin for spacing */
 }
 
+p {
+    text-align: justify;
+}
+
 .cta-button a {
     display: inline-block;
     background-color: black; /* Cor de fundo do botão */
