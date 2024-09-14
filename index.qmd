@@ -2,14 +2,14 @@
 title: "Olá"
 format:
   html:
-    css: custom.css
+    css: styles.css
     toc: false
     sidebar: false
 ---
 
 ### Somos a Uiro.
 
-### Nosso objetivo é revolucionar a forma como startups e empresas do consomem inteligência de mercado sobre bieconomia na amazônia.
+### Queremos revolucionar a forma como startups e empresas da bioeconomia amazônica consomem inteligência de mercado.
 
 ### Nossas Soluções
 
@@ -29,7 +29,7 @@ format:
 <a href="contato.qmd">Entre em contato </a>
 :::
 
-#### A Uiro produz conteúdo de dados sobre bioeconomia gratuito
+#### Produzimos conteúdo de dados sobre bioeconomia
 
 Não deixe de conferir nossas análises :)
 
