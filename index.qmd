@@ -15,7 +15,7 @@ format:
 
 #### Serviços de consultoria especializados
 
--   Você gostaria de saber quais são concorrentes? Quais produtos existem? Quais são as tendências do seu nicho de atuação? Bom, se você tem um problema e precisa de dados para a resposta conte conosco. A Uiro densenvolve soluções de dados sob medida para suas necessidades. Ficaremos felizes em entender mais sobre seu problema e propor soluções.
+-   Você gostaria de saber quem são seus concorrentes? Quais produtos existem? Quais são as tendências do seu nicho de atuação? Bom, se você tem um problema e precisa de dados para a resposta conte conosco. A Uiro densenvolve soluções de dados sob medida para suas necessidades. Ficaremos felizes em entender mais sobre seu problema e ajudá-lo na medida certa.
 
 #### Nosso Software como Serviço (SaaS) em validação
 
