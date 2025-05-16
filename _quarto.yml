@@ -11,10 +11,10 @@ website:
   page-navigation: true
   
   page-footer: 
-    left: "&copy; 2024 Uiro.io" 
-    right: 
-      - icon: instagram
-        href: https://www.instagram.com/uiro.io/?igsh=NjhvbWo4Z2c0NDF5
+    left: "&copy; 2025 Uiro.io" 
+#    right: 
+#      - icon: instagram
+#        href: https://www.instagram.com/uiro.io/?igsh=NjhvbWo4Z2c0NDF5
 
   navbar:
     right:

@@ -10,15 +10,9 @@ format:
 
 #### Entre em contato
 
--   Conheça de perto nossas [soluções:]{style="color: red;"} seja para contratar/testar nossos [serviços e produtos de dados]{style="color: red;"} ou propor [parcerias]{style="color: red;"}. Adorariamos conhecer suas demandas e propor soluções de dados para resolvê-las. 
-
+-   Conheça de perto nossas [soluções:]{style="color: red;"} seja para contratar/testar nossos [serviços e produtos de dados]{style="color: red;"} ou propor [parcerias]{style="color: red;"}. Adorariamos conhecer suas demandas e propor soluções de dados para resolvê-las.
 
 ##### Nossos canais são:
 
 -   Por <strong>email:</strong>
     -   gabriel.pisa\@uiro.io
-    -   sandro.ribeiro\@uiro.io
--   Pelo instagram:\
-    <a href="https://www.instagram.com/uiro.io" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png" alt="Instagram" width="20" height="20"/> </a> @uiro.io
-
-

@@ -3,7 +3,7 @@ title: "Uiro - Relatórios"
 description: "Quais Empresas relacionadas à bioeconomia recebem incentivos fiscais do Estado do Pará?"
 author:
   - name: Gabriel P. Folhes
-date: 2024-06-09
+date: 2025-05-09
 categories: [relatorios, empresas]
 ---
 
