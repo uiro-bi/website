@@ -1,5 +1,11 @@
 - name: "Gabriel P. Folhes"
-  role: "Fundador, CEO"
+  role: "Co-foundador, CTO"
   bio: "" 
   image: "imagens/equipe/gabriel.png"
   linkedin: "https://www.linkedin.com/in/gabriel-pisa/"
+
+- name: "Paula Bastos"
+  role: "Co-foundadora, CEO"
+  bio: ""
+  image: "imagens/equipe/paula.png"
+  linkedin: "https://www.linkedin.com/in/paulabastos/?originalSubdomain=br"
